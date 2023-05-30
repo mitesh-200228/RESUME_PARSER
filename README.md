@@ -3,5 +3,5 @@ Resume parsing process according to Job Description using ADA-002 engine.
 UI: streamlit
 
 How to run:
-install all libraries.
+install all libraries.\n
 Run "streamlit run ./app.py"
