@@ -4,4 +4,5 @@ UI: streamlit
 
 How to run:
 install PyCharm and all necessary libraries. <br/>
-Run "streamlit run ./app.py"
+Initialize Project and copy all this files there <br/>
+Run "streamlit run ./app.py" 
